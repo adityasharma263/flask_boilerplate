@@ -1,0 +1,31 @@
+# server
+
+SERVER_PORT = 5000
+
+SERVER_HOST = '127.0.0.1'
+
+SERVER_DEBUG = True
+
+SERVER_RELOAD = True
+
+SERVER_TIMEZONE = 'Etc/UTC'
+
+
+
+# postgreSQL
+
+NAME = 'test'
+
+USER = 'postgres'
+
+PASSWORD = 'root'
+
+PORT = 5432
+
+SQLALCHEMY_DATABASE_URI = 'postgresql://travelbeans:orev-travel-beans@travel-beans.c0dfxfu6dtnp.ap-south-1.rds.amazonaws.com:5432/travelbeans'
+
+SQLALCHEMY_TRACK_MODIFICATIONS = True
+
+#variables
+
+DOMAIN_URL = 'http://travel-beans.ap-south-1.elasticbeanstalk.com'

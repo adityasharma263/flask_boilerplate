@@ -1,0 +1,27 @@
+# Virtual environment folder #
+######################
+venv/
+venv2/
+py3env/
+/py3env/
+/py3env/*
+db_dump/
+config.cfg
+.vscode/
+
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+desktop.ini
+task.txt
+
+
+# text editor/IDE files #
+######################
+__pycache__/
+*.pyc
+.idea/
+.idea
+__pycache__/*.pyc
