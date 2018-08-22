@@ -1,5 +1,5 @@
 #=======#
-**FLIGHT**
+**FLASK BOILERPLATE**
 #=======#
 
 compare the top travel website's price
